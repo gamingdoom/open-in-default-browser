@@ -1,4 +1,4 @@
-setInterval(changeLinks, 1000)
+setInterval(changeLinks, 100)
 
 function changeLinks() {
   // Get list of all links in the page
